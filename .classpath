@@ -4,5 +4,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="SingleInheritanceCode"/>
 	<classpathentry kind="src" path="MultilevelInheritance"/>
+	<classpathentry kind="src" path="MethodOverloading"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
