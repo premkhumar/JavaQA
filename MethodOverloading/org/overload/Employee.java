@@ -1,7 +1,5 @@
 package org.overload;
 
-import java.util.Scanner;
-
 public class Employee {
 	
 	public void empId(int id) {
