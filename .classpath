@@ -6,5 +6,6 @@
 	<classpathentry kind="src" path="MultilevelInheritance"/>
 	<classpathentry kind="src" path="MethodOverloading"/>
 	<classpathentry kind="src" path="MethodOverriding"/>
+	<classpathentry kind="src" path="Interface"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
